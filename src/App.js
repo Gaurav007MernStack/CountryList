@@ -1,10 +1,9 @@
 import React from 'react';
-import List from './CountriesList';
+
 
 function App() {
   return (
     <div className="App">
-      <List />
     </div>
   );
 }
